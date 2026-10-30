@@ -135,3 +135,8 @@ By combining environmental sensing, MQTT communication, AI-powered services, and
 ---
 
 **Developed as an academic IoT project at SLIIT.**
+
+<img width="1376" height="752" alt="IoT (AuraLink) Architecture Diagram (no watermark)" src="https://github.com/user-attachments/assets/55da5531-cfa7-4bf8-827f-fd284dc65343" />
+
+
+
